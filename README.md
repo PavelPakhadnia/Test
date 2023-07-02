@@ -17,3 +17,4 @@ Tools:
 
 Testing Documentation:
 
+[Test-cases Swagger_Petstore](https://github.com/PavelPakhadnia/Swagger-Petstore)
