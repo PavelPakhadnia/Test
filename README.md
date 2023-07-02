@@ -20,3 +20,5 @@ Testing Documentation:
 [Test-cases/Bug-report Swagger_Petstore](https://github.com/PavelPakhadnia/Swagger-Petstore)
 
 [Test-cases/Bug-report/TRR www.saucedemo.com](https://github.com/PavelPakhadnia/saucedemo.com)
+
+[Requirements/Bug-report/TRR Calc.exe(S.Kulikov)](https://github.com/PavelPakhadnia/Calc.exe-S.Kulikov)
