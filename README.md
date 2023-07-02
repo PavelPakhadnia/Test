@@ -1,2 +1,1 @@
-# Test
-Projects and artifacts created by me.
+Hello! My name is Pavel and i am a QA Engineer
