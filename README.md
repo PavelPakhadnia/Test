@@ -22,3 +22,5 @@ Testing Documentation:
 [Test-cases/Bug-report/TRR www.saucedemo.com](https://github.com/PavelPakhadnia/saucedemo.com)
 
 [Requirements/Bug-report/TRR Calc.exe(S.Kulikov)](https://github.com/PavelPakhadnia/Calc.exe-S.Kulikov)
+
+[SQL-queries](https://github.com/PavelPakhadnia/SQL-queries)
