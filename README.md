@@ -1,6 +1,6 @@
 Hello! My name is Pavel and I am a QA Engineer
 
-[Link to my CV](https://drive.google.com/file/d/1tWAkX28lof69hNGk_ZZyJqM0rpTaZZVw/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1sPj3hZwC6Ih_XiKTLA-0vfNXLdJ4sbdm/view?usp=sharing)
 
 Tools:
 
