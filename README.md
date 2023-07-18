@@ -26,3 +26,5 @@ Testing Documentation:
 [SQL-queries](https://github.com/PavelPakhadnia/SQL-queries)
 
 [Team project](https://github.com/PavelPakhadnia/Team_Project)
+
+[DevTools](https://github.com/PavelPakhadnia/DevTools)
